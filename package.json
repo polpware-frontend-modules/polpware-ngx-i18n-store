@@ -1,0 +1,25 @@
+{
+  "name": "@polpware/ngx-i18n-store",
+  "version": "9.0.0",
+  "peerDependencies": {
+    "@angular/common": "^9.0.0",
+    "@angular/core": "^9.0.0",
+    "@polpware/fe-data": "^9.0.0",
+    "@polpware/fe-utilities": "^9.0.0"
+  },
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "main": "bundles/polpware-ngx-i18n-store.umd.js",
+  "module": "fesm5/polpware-ngx-i18n-store.js",
+  "es2015": "fesm2015/polpware-ngx-i18n-store.js",
+  "esm5": "esm5/polpware-ngx-i18n-store.js",
+  "esm2015": "esm2015/polpware-ngx-i18n-store.js",
+  "fesm5": "fesm5/polpware-ngx-i18n-store.js",
+  "fesm2015": "fesm2015/polpware-ngx-i18n-store.js",
+  "typings": "polpware-ngx-i18n-store.d.ts",
+  "sideEffects": false,
+  "scripts": {
+    "prepublishOnly": "node --eval \"console.error('ERROR: Trying to publish a package that has been compiled by Ivy. This is not allowed.\\nPlease delete and rebuild the package, without compiling with Ivy, before attempting to publish.\\n')\" && exit 1"
+  }
+}
