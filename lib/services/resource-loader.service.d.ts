@@ -20,6 +20,7 @@ export declare class ResourceLoaderService {
      * @returns {Promise}
      */
     loadOptionPromise(): PromiseLike<any>;
-    static ɵfac: i0.ɵɵFactoryDef<ResourceLoaderService, never>;
-    static ɵprov: i0.ɵɵInjectableDef<ResourceLoaderService>;
+    static ɵfac: i0.ɵɵFactoryDeclaration<ResourceLoaderService, never>;
+    static ɵprov: i0.ɵɵInjectableDeclaration<ResourceLoaderService>;
 }
+//# sourceMappingURL=resource-loader.service.d.ts.map

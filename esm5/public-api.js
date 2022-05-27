@@ -1,5 +1,0 @@
-/*
- * Public API Surface of ngx-i18n-store
- */
-export * from './lib/services/resource-loader.service';
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL0Bwb2xwd2FyZS9uZ3gtaTE4bi1zdG9yZS8iLCJzb3VyY2VzIjpbInB1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLHdDQUF3QyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBuZ3gtaTE4bi1zdG9yZVxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL3NlcnZpY2VzL3Jlc291cmNlLWxvYWRlci5zZXJ2aWNlJztcbiJdfQ==
