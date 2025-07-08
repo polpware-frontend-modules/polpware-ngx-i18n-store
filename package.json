@@ -1,11 +1,11 @@
 {
   "name": "@polpware/ngx-i18n-store",
-  "version": "16.0.0",
+  "version": "17.0.0",
   "peerDependencies": {
-    "@angular/common": "^16.0.0",
-    "@angular/core": "^16.0.0",
-    "@polpware/fe-data": "^16.0.0",
-    "@polpware/fe-utilities": "^16.0.0"
+    "@angular/common": "^17.0.0",
+    "@angular/core": "^17.0.0",
+    "@polpware/fe-data": "^17.0.0",
+    "@polpware/fe-utilities": "^17.0.0"
   },
   "dependencies": {
     "tslib": "^2.0.0"
