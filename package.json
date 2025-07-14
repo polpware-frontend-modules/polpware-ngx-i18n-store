@@ -1,6 +1,6 @@
 {
   "name": "@polpware/ngx-i18n-store",
-  "version": "16.0.0",
+  "version": "16.0.1",
   "peerDependencies": {
     "@angular/common": "^16.0.0",
     "@angular/core": "^16.0.0",
