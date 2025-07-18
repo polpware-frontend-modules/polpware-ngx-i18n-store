@@ -80,7 +80,7 @@ class ResourceLoaderService {
             return loadJsonUriP(resolvedOptionsUrl);
         });
     }
-    static { this.ɵfac = function ResourceLoaderService_Factory(t) { return new (t || ResourceLoaderService)(i0.ɵɵinject(i0.NgZone)); }; }
+    static { this.ɵfac = function ResourceLoaderService_Factory(__ngFactoryType__) { return new (__ngFactoryType__ || ResourceLoaderService)(i0.ɵɵinject(i0.NgZone)); }; }
     static { this.ɵprov = /*@__PURE__*/ i0.ɵɵdefineInjectable({ token: ResourceLoaderService, factory: ResourceLoaderService.ɵfac }); }
 }
 (() => { (typeof ngDevMode === "undefined" || ngDevMode) && i0.ɵsetClassMetadata(ResourceLoaderService, [{
