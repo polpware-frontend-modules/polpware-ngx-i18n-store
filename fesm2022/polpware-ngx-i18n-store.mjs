@@ -1,10 +1,10 @@
 import * as i0 from '@angular/core';
 import { Injectable } from '@angular/core';
-import * as externalInterface from '@polpware/fe-dependencies';
+import { legacyLibs } from '@polpware/amd-bridge';
 import { replace } from '@polpware/fe-utilities';
 import { SlidingExpirationCache, ResourceLoader, loadJsonUriP, I18n } from '@polpware/fe-data';
 
-const _ = externalInterface.underscore;
+const _ = legacyLibs._;
 /**
  * Verify if the given lang is valid. If the given lang is not valid,
  * this function returns a default one.
